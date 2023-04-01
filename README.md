@@ -50,7 +50,3 @@ The purpose of this exercise is to test your familiarity with Java/Kotlin full-s
 ## Bonus Points ##
 
 * Include pagination in the UI.
-# Book-Review-Listing
-# Book-Review-Listing
-# Book-Review-Listing
-# Book-Review-Listing
