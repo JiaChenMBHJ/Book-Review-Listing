@@ -1,0 +1,6 @@
+2023-04-01 15:22:12 INFO  BookService:24 - Query -p2 apple returned an empty list.
+2023-04-01 15:22:16 INFO  BookService:24 - Query -p2 apple returned an empty list.
+2023-04-01 15:22:17 INFO  BookService:24 - Query -p2 apple returned an empty list.
+2023-04-01 15:22:17 INFO  BookService:24 - Query -p2 apple returned an empty list.
+2023-04-01 15:22:19 INFO  BookService:24 - Query -p2 apple returned an empty list.
+2023-04-01 15:33:21 INFO  BookService:24 - Query apple --sort author returned an empty list.

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="UTF-8">
+	 <link rel ="stylesheet" type="text/css" href="mystyle.css"/>
+	 <script src="book-listing.js"></script>
+	 <text> Command Line Interface </text>
+</head>
+<body>
+<form onsubmit="processInput(); return false;">
+	<label for="command">Enter a command:</label>
+	<input type="text" id="command" name="command">
+	<!-- <button type="submit">Run Command</button>-->
+</form>
+<div id="output"></div>
+<ul id="bookList"></ul> <!-- Add empty ul element for search results -->
+
+</body>
+</html>
+
